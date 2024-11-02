@@ -2079,6 +2079,47 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   text-decoration: none;
 }
 /**shipping ends**/
+/* Privacy Policy Section Styling */
+.privacy-policy-section {
+  padding: 60px 20px;
+  background-color: #f7f9fc;
+  color: #333;
+}
+
+.privacy-policy-section .container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.privacy-content h2 {
+  font-size: 28px;
+  margin-bottom: 15px;
+  color: #1a1a1a;
+  font-weight: 600;
+}
+
+.privacy-content h3 {
+  font-size: 20px;
+  margin-top: 20px;
+  color: #333;
+  font-weight: 500;
+}
+
+.privacy-content p {
+  line-height: 1.6;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.privacy-content a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.privacy-content a:hover {
+  text-decoration: underline;
+}
+/**privacy policy ends**/
 /* Terms of Use Styles */
 .terms-container {
   padding: 40px;
